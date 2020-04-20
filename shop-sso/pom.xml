@@ -7,9 +7,7 @@
     <artifactId>shop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>com.ydx</groupId>
   <artifactId>shop-sso</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
   <name>shop-sso</name>
   <url>http://maven.apache.org</url>
   <properties>
